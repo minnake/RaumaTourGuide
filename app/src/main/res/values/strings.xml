@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Rauma Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Tab names. -->
+    <string name="tab_rauma">Rauma</string>
+    <string name="tab_sites">Sites</string>
+    <string name="tab_events">Events</string>
+    <string name="tab_hotels">Hotels</string>
+    <string name="tab_links">Links</string>
+
+    <string name="rauma_info"> Rauma is a town and municipality of ca. 40 000 inhabitants on the west coast of Finland, granted town privileges on 17 April 1442 (then under the rule of Sweden).\n\nRauma is known for its paper and maritime industry, high quality lace (since the 18th century) and the old wooden architecture of its centre (Old Rauma, Vanha Rauma), which is a UNESCO world heritage site.\n\n(Taken from Wikipedia)</string>
+
+    <!-- Sites. -->
+    <string name="unesco1_header">Vanha Rauma \nOld Rauma</string>
+    <string name="unesco1_text">Elaborately decorated wooden houses, idyllic street views. Enchanting Old Rauma was chosen to the UNESCO World Heritage list in 1991 as a unique example of a living and well maintained old Nordic wooden town.</string>
+    <string name="unesco2_header">Sammallahdenmäki</string>
+    <string name="unesco2_text">Sammallahdenmäki was inscriped to the UNESCO World Heritage list in December 1999 as the first prehistoric archaelogical site in Finland. The burial cairns were included on the list as the most representative site of Western Bronze Age culture in Finland and the entire Scandinavia. Situated at the Gulf of Bothnia Bronze Age burial site of Sammallahdenmäki forms the largest most varied and most complete burial site from the Scandinavian Bronze age. The site includes 36 burial cairns within an area of 36 hectares.</string>
+    <string name="raatihuone_header">Vanha Raatihuone\nOld Town hall</string>
+    <string name="raatihuone_text">Rauma Museum has been located in the Old Town Hall since 1902. In the beginning the museum was located on the upper floor but in the 1930s museum acquired down stairs as well. Until then the local police department worked there.</string>
+
+    <!-- Events. -->
+    <string name="rmj_header">Raumanmeren Juhannus</string>
+    <string name="rmj_text">Raumanmeren Juhannus or in short RMJ festival takes place from 21st to 23rd of June 2018. RMJ is a music festival located in Rauma, Otanlahti. We welcome you to come along to celebrate the Midsummer with us!.</string>
+    <string name="lace_header">Lace week</string>
+    <string name="lace_text">Rauma Lace Week is a versatile summer event held in Rauma. Lace Week is combining traditional lace making to modern and global festival atmosphere. Most of the program is free of charge and we welcome all international guests to come enjoy our event in the picturesque Old Rauma. Even though major part of the program is in Finnish, anyone can still enjoy the lively music, creative performances and colourful arts.</string>
+
+    <!-- Hotels. -->
+    <string name="kalliohovi_header">Hotel Kalliohovi</string>
+    <string name="kalliohovi_text">Hotel Kalliohovi Offers comfortable and unique sleeping environment in Rauma since 1988. Hotel holds peaceful rooms, free internet and delicious buffet-breakfast and Rauma\'s Maritime museum is located opposite to us and UNESCO site Old Rauma is within walking distance (approx. 700m).</string>
+    <string name="raumanlinna_header">Hotel Raumanlinna</string>
+    <string name="raumanlinna_text">Raumanlinna, built as a civilian defence headquarters in 1933, is located in the very center of Rauma, just a walking distance away from the Unesco world heritage site of Old Rauma. Hotel Raumanlinna\'s functionalistic building has been fully renovated along the 21st century. The common areas and hotel rooms are up to date and for the expectations of a modern traveller.</string>
+    <string name="placeToSleep_header">Place to sleep Rauma</string>
+    <string name="placeToSleep_text">The hotel is located in a 100-year old beautiful building which was originally a shoe factory. The hotel is in the center of the city, just 200 m from the bus station. The famous Old Rauma district is also just a few blocks away.</string>
+
+    <!-- Web links. -->
+    <string name="visit_rauma_link">https://www.visitrauma.fi</string>
+    <string name="rauma_wikipedia_link">https://en.wikipedia.org/wiki/Rauma,_Finland\n\n</string>
+
+    <string name="rmj_link">http://www.rmj.fi/</string>
+    <string name="lace_week_link">https://www.pitsiviikko.fi/\n\n</string>
+
+    <string name="kalliohovi_link">http://www.kalliohovi.fi/</string>
+    <string name="raumanlinna_link">http://www.raumanlinna.fi/</string>
+    <string name="placeToSleep_link">https://www.placetosleep.com/en/hotels/rauma_189#anchor</string>
+    <string name="accommodation_link">https://www.visitrauma.fi/en/services/accommodation/</string>
+
+</resources>
